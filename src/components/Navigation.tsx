@@ -46,7 +46,7 @@ const Navigation = () => {
                 }}
                 transition={{ type: "spring", stiffness: 400, damping: 15 }}
               >
-                <img src="/images/monogram.png" alt="FS" className="logo-icon" />
+                <img src="images/monogram.png" alt="FS" className="logo-icon" />
                 <span className="logo-text">
                   <span className="first-name">Faisal</span>
                   <span className="last-name">Shabbir</span>
