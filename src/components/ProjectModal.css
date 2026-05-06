@@ -1,0 +1,100 @@
+.project-modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xl);
+}
+
+.project-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: var(--spacing-md);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.project-modal-category {
+  font-size: var(--font-size-sm);
+  color: var(--color-primary);
+  font-weight: var(--font-weight-medium);
+  margin-bottom: var(--spacing-xs);
+}
+
+.project-modal-year {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-light);
+}
+
+.project-modal-links {
+  display: flex;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+}
+
+.project-modal-description,
+.project-modal-features,
+.project-modal-tech,
+.project-modal-challenges,
+.project-modal-solutions {
+  margin-bottom: var(--spacing-xl);
+}
+
+.project-modal-description h3,
+.project-modal-features h3,
+.project-modal-tech h3,
+.project-modal-challenges h3,
+.project-modal-solutions h3 {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  margin-bottom: var(--spacing-md);
+  color: var(--color-text);
+}
+
+.project-modal-description p,
+.project-modal-challenges p,
+.project-modal-solutions p {
+  color: var(--color-text-light);
+  line-height: var(--line-height-relaxed);
+}
+
+.project-modal-features ul {
+  list-style: disc;
+  padding-left: var(--spacing-lg);
+  color: var(--color-text-light);
+}
+
+.project-modal-features li {
+  margin-bottom: var(--spacing-sm);
+  line-height: var(--line-height-relaxed);
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+}
+
+.tech-tag {
+  font-size: var(--font-size-sm);
+  padding: var(--spacing-xs) var(--spacing-md);
+  background: var(--color-primary);
+  color: white;
+  border-radius: var(--radius-full);
+  font-weight: var(--font-weight-medium);
+}
+
+@media (max-width: 768px) {
+  .project-modal-header {
+    flex-direction: column;
+  }
+
+  .project-modal-links {
+    width: 100%;
+  }
+
+  .project-modal-links button {
+    flex: 1;
+  }
+}
+

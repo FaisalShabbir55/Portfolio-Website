@@ -1,0 +1,579 @@
+{
+  "owner": {
+    "name": "Faisal Shabbir",
+    "title": "Software Engineer & Full Stack Web Developer | Cyber Security Intern",
+    "taglines": [
+      "Building clean, efficient, and scalable web applications",
+      "Turning complex ideas into practical, user-friendly solutions",
+      "Full-stack mindset that connects code, servers, and networks"
+    ],
+    "bio": "I'm a developer with a strong foundation in networking and system administration, focused on building clean, efficient, and scalable web applications. I work mainly with React, Node.js, and real-time technologies like WebSockets, and I enjoy turning complex ideas into practical, user-friendly solutions. With CCNA- and MCSA-level knowledge, I bring a full-stack mindset that connects code, servers, and networks.",
+    "story": "I'm a developer with a deep interest in how technology works from the ground up — from networks and servers to modern web applications. My journey started with networking and system administration, where I built a strong understanding of CCNA- and MCSA-level concepts like routing, switching, IP addressing, and system management. This foundation helped me see software not just as code, but as part of a larger, connected system.\n\nOver time, I moved into web development, focusing on building responsive and scalable applications using React, Node.js, and real-time technologies such as WebSockets. I enjoy creating systems that solve real-world problems, whether it's a live chat application, dashboards, or service-based platforms. I pay close attention to clean architecture, performance, and user experience.\n\nI'm a continuous learner who enjoys experimenting with new tools, improving existing systems, and understanding how backend logic, APIs, and infrastructure work together. My goal is to grow as a full-stack developer while building reliable, efficient, and impactful digital solutions.",
+    "profile_image": "/images/Profile.png",
+    "location": "Lahore, Pakistan",
+    "timezone": "Asia/Karachi (PKT, UTC+5)",
+    "availability": {
+      "status": "Available for opportunities",
+      "response_time": "Usually within 24 hours",
+      "preferred_contact": "Email or WhatsApp"
+    }
+  },
+  "contact": {
+    "email": "faisalmaneka0@gmail.com",
+    "phone": "+92 322 9399647",
+    "whatsapp": "+923166800572",
+    "location": "Lahore, Pakistan",
+    "form_enabled": true,
+    "form_service": "whatsapp"
+  },
+  "social_links": {
+    "github": "https://github.com/FaisalShabbir55",
+    "linkedin": "https://www.linkedin.com/in/m-faisal-shabir-5022993a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "twitter": "https://x.com/Faisal_Maneka0",
+    "instagram": "https://www.instagram.com/faisal_maneka?igsh=aGpkeGsxOXRkc3Z6&utm_source=qr"
+  },
+  "cta": {
+    "primary": {
+      "text": "View My Work",
+      "link": "/projects",
+      "style": "primary"
+    },
+    "secondary": {
+      "text": "Get In Touch",
+      "link": "/contact",
+      "style": "secondary"
+    }
+  },
+  "background_style": {
+    "type": "gradient",
+    "colors": ["#667eea", "#764ba2"],
+    "animation": "subtle"
+  },
+  "timeline": [
+    {
+      "id": 1,
+      "type": "education",
+      "title": "Bachelor of Software Engineering",
+      "institution": "University of Central Punjab (UCP)",
+      "location": "Lahore, Pakistan",
+      "start_date": "2021-09",
+      "end_date": "2025-06",
+      "description": "Focused on Data Structures & Algorithms, Computer Networking, Information Security, and Software Quality Assurance.",
+      "achievements": ["GPA 3.35 / 4.0"],
+      "icon": "graduation-cap"
+    },
+    {
+      "id": 2,
+      "type": "education",
+      "title": "Full Stack Web Development",
+      "institution": "NexSkills",
+      "location": "Lahore, Pakistan",
+      "start_date": "2022-06",
+      "end_date": "2022-09",
+      "description": "Diploma / course in full-stack web development.",
+      "achievements": [],
+      "icon": "graduation-cap"
+    },
+    {
+      "id": 3,
+      "type": "education",
+      "title": "Cyber Security Engineer",
+      "institution": "Certification (In Progress)",
+      "location": "",
+      "start_date": "2025-11",
+      "end_date": "2026-03",
+      "description": "Certification in progress.",
+      "achievements": [],
+      "icon": "graduation-cap"
+    },
+    {
+      "id": 4,
+      "type": "career",
+      "title": "Front-End Web Developer",
+      "company": "NexSkills",
+      "location": "Lahore",
+      "start_date": "2022-09",
+      "end_date": "2022-12",
+      "description": "Worked on designing and developing responsive front-end interfaces for multiple web projects. Built responsive layouts using HTML, CSS, and JavaScript. Worked with modern UI frameworks. Improved usability and visual consistency.",
+      "achievements": [],
+      "icon": "briefcase"
+    },
+    {
+      "id": 5,
+      "type": "career",
+      "title": "Full-Stack Web Developer",
+      "company": "Flow Tech",
+      "location": "Lahore / Remote",
+      "start_date": "2025-11",
+      "end_date": "present",
+      "description": "Developing and maintaining full-stack web applications with a strong focus on performance, scalability, and user experience. Delivered scalable production-ready applications. Improved UI performance and responsiveness.",
+      "achievements": ["Delivered scalable production-ready applications", "Improved UI performance and responsiveness"],
+      "icon": "briefcase"
+    }
+  ],
+  "skills": {
+    "frontend": [
+      {
+        "name": "React.js",
+        "proficiency": "advanced",
+        "years": 3,
+        "projects_count": 10,
+        "icon": "react"
+      },
+      {
+        "name": "HTML / CSS",
+        "proficiency": "advanced",
+        "years": 3,
+        "projects_count": 15,
+        "icon": "html5"
+      },
+      {
+        "name": "JavaScript",
+        "proficiency": "advanced",
+        "years": 3,
+        "projects_count": 12,
+        "icon": "javascript"
+      },
+      {
+        "name": "Tailwind CSS",
+        "proficiency": "intermediate",
+        "years": 2,
+        "projects_count": 6,
+        "icon": "css3"
+      },
+      {
+        "name": "Bootstrap",
+        "proficiency": "intermediate",
+        "years": 2,
+        "projects_count": 5,
+        "icon": "bootstrap"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "proficiency": "advanced",
+        "years": 3,
+        "projects_count": 8,
+        "icon": "nodejs"
+      },
+      {
+        "name": "Express.js",
+        "proficiency": "intermediate",
+        "years": 2,
+        "projects_count": 6,
+        "icon": "express"
+      },
+      {
+        "name": "REST APIs",
+        "proficiency": "advanced",
+        "years": 3,
+        "projects_count": 10,
+        "icon": "api"
+      },
+      {
+        "name": "MongoDB",
+        "proficiency": "intermediate",
+        "years": 2,
+        "projects_count": 6,
+        "icon": "mongodb"
+      },
+      {
+        "name": "MySQL",
+        "proficiency": "intermediate",
+        "years": 2,
+        "projects_count": 5,
+        "icon": "mysql"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Git & GitHub",
+        "proficiency": "advanced",
+        "years": 3,
+        "projects_count": 15,
+        "icon": "git"
+      },
+      {
+        "name": "Postman",
+        "proficiency": "advanced",
+        "years": 2,
+        "projects_count": 10,
+        "icon": "postman"
+      },
+      {
+        "name": "VS Code / Visual Studio",
+        "proficiency": "advanced",
+        "years": 3,
+        "projects_count": 15,
+        "icon": "vscode"
+      },
+      {
+        "name": "Computer Networking (CCNA-level)",
+        "proficiency": "intermediate",
+        "years": 2,
+        "projects_count": 4,
+        "icon": "network"
+      },
+      {
+        "name": "Information Security",
+        "proficiency": "intermediate",
+        "years": 2,
+        "projects_count": 4,
+        "icon": "shield"
+      }
+    ],
+    "design": [
+      {
+        "name": "Figma",
+        "proficiency": "beginner",
+        "years": 1,
+        "projects_count": 2,
+        "icon": "figma"
+      }
+    ]
+  },
+  "skill_categories": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Tools / DevOps & Cyber",
+    "design": "Design"
+  },
+  "learning_path": {
+    "currently_learning": [
+      "Cyber Security Engineering",
+      "Penetration Testing",
+      "Advanced Networking",
+      "Secure Web Architecture"
+    ],
+    "future_goals": [
+      "Cloud Security (AWS / Azure)",
+      "Kubernetes & Container Security",
+      "Advanced Full-Stack Architecture",
+      "SOC & Blue Team Operations"
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "WhatsApp Messaging System for E-Commerce",
+      "description": "Scalable WhatsApp automation platform for customer support and order notifications.",
+      "long_description": "Built a high-volume messaging system using webhooks and browser automation with cost-optimized workflows. Features template-based messaging, delivery tracking, high-volume optimization, and automated workflows.",
+      "image": "/images/projects/whatsapp-system.png",
+      "images": ["/images/projects/whatsapp-system.png"],
+      "technologies": ["Node.js", "JavaScript", "Webhooks", "Automation"],
+      "category": "Full Stack",
+      "tags": ["Node.js", "Webhooks", "Automation", "E-Commerce"],
+      "featured": true,
+      "year": 2024,
+      "status": "completed",
+      "features": [
+        "Template-based messaging",
+        "Delivery tracking",
+        "High-volume optimization",
+        "Automated workflows"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Price Comparison Website",
+      "description": "Web platform comparing product prices from multiple e-commerce sources.",
+      "long_description": "Aggregates product data using APIs and web scraping with alert-based tracking. Features price comparison, availability tracking, user alerts, and planned price history charts.",
+      "image": "/images/projects/price-comparison.png",
+      "images": ["/images/projects/price-comparison.png"],
+      "technologies": ["Node.js", "APIs", "Web Scraping", "JavaScript"],
+      "category": "Full Stack",
+      "tags": ["Node.js", "APIs", "Web Scraping", "E-Commerce"],
+      "featured": true,
+      "year": 2024,
+      "status": "completed",
+      "features": [
+        "Price comparison",
+        "Availability tracking",
+        "User alerts",
+        "Planned price history charts"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Smart Attendance & Employee Management System",
+      "description": "Biometric-based attendance and employee management system.",
+      "long_description": "Integrated with ZKTeco devices for real-time attendance and employee management.",
+      "image": "/images/projects/attendance.png",
+      "images": ["/images/projects/attendance.png"],
+      "technologies": [".NET", "REST API", "ZKTeco Devices"],
+      "category": "Backend",
+      "tags": [".NET", "REST API", "Biometric", "Attendance"],
+      "featured": false,
+      "year": 2023,
+      "status": "completed",
+      "features": [
+        "Biometric integration",
+        "Real-time attendance",
+        "Employee management"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Google Maps Data Scraping System",
+      "description": "Node.js-based data extraction system for Google Maps business listings.",
+      "long_description": "Modular scraping with data normalization and structured storage.",
+      "image": "/images/projects/maps-scraper.png",
+      "images": ["/images/projects/maps-scraper.png"],
+      "technologies": ["Node.js", "Web Scraping"],
+      "category": "Backend",
+      "tags": ["Node.js", "Web Scraping", "Google Maps"],
+      "featured": false,
+      "year": 2023,
+      "status": "completed",
+      "features": [
+        "Modular scraping",
+        "Data normalization",
+        "Structured storage"
+      ]
+    }
+  ],
+  "featured_projects": [1, 2],
+  "project_categories": [
+    "All",
+    "Full Stack",
+    "Frontend",
+    "Backend",
+    "Cyber Security"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Full-Stack Web Developer",
+      "company": "Flow Tech",
+      "company_url": "",
+      "company_logo": "",
+      "location": "Lahore / Remote",
+      "type": "Full-time",
+      "start_date": "2025-11",
+      "end_date": "present",
+      "current": true,
+      "description": "Developing and maintaining full-stack web applications with a strong focus on performance, scalability, and user experience.",
+      "responsibilities": [
+        "Develop full-stack applications using modern web technologies",
+        "Optimize front-end performance and cross-browser compatibility",
+        "Work on debugging, deployment, and enhancements",
+        "Collaborate on client-side improvements"
+      ],
+      "achievements": [
+        "Delivered scalable production-ready applications",
+        "Improved UI performance and responsiveness"
+      ],
+      "technologies": ["React", "Node.js", "JavaScript", "HTML", "CSS", "MongoDB", "MySQL", "Git"],
+      "skills_developed": ["Full-Stack Development", "Performance Optimization", "Scalability"]
+    },
+    {
+      "id": 2,
+      "title": "Front-End Web Developer",
+      "company": "NexSkills",
+      "company_url": "",
+      "company_logo": "",
+      "location": "Lahore",
+      "type": "Internship",
+      "start_date": "2022-09",
+      "end_date": "2022-12",
+      "current": false,
+      "description": "Worked on designing and developing responsive front-end interfaces for multiple web projects.",
+      "responsibilities": [
+        "Built responsive layouts using HTML, CSS, and JavaScript",
+        "Worked with modern UI frameworks",
+        "Improved usability and visual consistency"
+      ],
+      "achievements": [],
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "skills_developed": ["Front-End Development", "Responsive Design", "UI/UX"]
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Production-Level Full-Stack Systems",
+      "description": "Built multiple production-level full-stack systems",
+      "year": 2024,
+      "icon": "code"
+    },
+    {
+      "id": 2,
+      "title": "Enterprise Biometric Integration",
+      "description": "Hands-on integration with enterprise biometric devices",
+      "year": 2023,
+      "icon": "hardware"
+    },
+    {
+      "id": 3,
+      "title": "Scalable Automation Platforms",
+      "description": "Developed scalable automation platforms",
+      "year": 2024,
+      "icon": "rocket"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Software Engineering",
+      "field": "Software Engineering",
+      "institution": "University of Central Punjab (UCP)",
+      "institution_url": "",
+      "institution_logo": "",
+      "location": "Lahore, Pakistan",
+      "start_date": "2021-09",
+      "end_date": "2025-06",
+      "gpa": "3.35 / 4.0",
+      "honors": [],
+      "relevant_coursework": [
+        "Data Structures & Algorithms",
+        "Computer Networking",
+        "Information Security",
+        "Software Quality Assurance"
+      ],
+      "description": "Focused on software engineering, networking, and security."
+    },
+    {
+      "id": 2,
+      "degree": "Diploma / Course",
+      "field": "Full Stack Web Development",
+      "institution": "NexSkills",
+      "institution_url": "",
+      "institution_logo": "",
+      "location": "Lahore, Pakistan",
+      "start_date": "2022-06",
+      "end_date": "2022-09",
+      "gpa": "",
+      "honors": [],
+      "relevant_coursework": [],
+      "description": "Full Stack Web Development certification."
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Full Stack Web Development",
+      "issuer": "NexSkills",
+      "issuer_logo": "",
+      "issue_date": "2022-09",
+      "expiry_date": null,
+      "credential_id": "",
+      "credential_url": "",
+      "icon": "code"
+    },
+    {
+      "id": 2,
+      "name": "Cyber Security Engineer",
+      "issuer": "In Progress",
+      "issuer_logo": "",
+      "issue_date": "2025-11",
+      "expiry_date": "2026-03",
+      "credential_id": "",
+      "credential_url": "",
+      "icon": "shield"
+    }
+  ],
+  "courses": [],
+  "interests": [
+    {
+      "id": 1,
+      "name": "Cyber Security Research",
+      "description": "Exploring vulnerabilities and defense strategies",
+      "icon": "shield",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Building Side Projects",
+      "description": "Turning ideas into working systems",
+      "icon": "code",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Learning New Technologies",
+      "description": "Constantly upgrading skills",
+      "icon": "book",
+      "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop"
+    }
+  ],
+  "blog_articles": [
+    {
+      "id": 1,
+      "title": "Building Secure Full-Stack Applications",
+      "excerpt": "Best practices for security in full-stack web applications...",
+      "content": "Full article content in markdown format...",
+      "image": "/images/blog/secure-fullstack.jpg",
+      "publish_date": "2024-01-15",
+      "reading_time": 8,
+      "tags": ["Security", "Full Stack", "Best Practices"],
+      "category": "Development",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "WebSockets & Real-Time Systems Explained",
+      "excerpt": "Understanding WebSockets and building real-time systems...",
+      "content": "Full article content in markdown format...",
+      "image": "/images/blog/websockets.jpg",
+      "publish_date": "2024-01-10",
+      "reading_time": 6,
+      "tags": ["WebSockets", "Real-time", "Node.js"],
+      "category": "Backend",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Networking Basics for Developers",
+      "excerpt": "Essential networking concepts every developer should know...",
+      "content": "Full article content in markdown format...",
+      "image": "/images/blog/networking-basics.jpg",
+      "publish_date": "2024-01-05",
+      "reading_time": 7,
+      "tags": ["Networking", "CCNA", "Developer"],
+      "category": "Tutorials",
+      "featured": false
+    }
+  ],
+  "blog_categories": [
+    "All",
+    "Frontend",
+    "Backend",
+    "Development",
+    "Tutorials",
+    "Thoughts"
+  ],
+  "seo": {
+    "site_name": "Faisal Shabbir – Portfolio",
+    "title": "Faisal Shabbir | Full-Stack Developer & Cyber Security Engineer",
+    "description": "Full-stack developer with strong networking and cyber security background, building scalable and secure web applications.",
+    "keywords": ["Full Stack Developer", "React", "Node.js", "Cyber Security", "Networking", "Web Developer", "Pakistan"],
+    "author": "Faisal Shabbir",
+    "og_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+    "twitter_handle": "@Faisal_Maneka0"
+  },
+  "analytics": {
+    "google_analytics_id": "G-XXXXXXXXXX",
+    "plausible_domain": null
+  },
+  "theme": {
+    "primary_color": "#667eea",
+    "secondary_color": "#764ba2",
+    "accent_color": "#f093fb",
+    "text_color": "#2d3748",
+    "background_color": "#ffffff",
+    "dark_mode": {
+      "enabled": true,
+      "text_color": "#f7fafc",
+      "background_color": "#1a202c"
+    }
+  },
+  "settings": {
+    "enable_blog": true,
+    "enable_dark_mode": true,
+    "enable_animations": true,
+    "animation_speed": "normal",
+    "language": "en"
+  }
+}
+
