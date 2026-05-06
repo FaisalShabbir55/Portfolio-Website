@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import { useOwnerData } from '../contexts/DataContext';
 import ThemeToggle from './ThemeToggle';
 import './Navigation.css';
 
@@ -9,7 +8,6 @@ const Navigation = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const location = useLocation();
-  const data = useOwnerData();
 
   useEffect(() => {
     const handleScroll = () => {
